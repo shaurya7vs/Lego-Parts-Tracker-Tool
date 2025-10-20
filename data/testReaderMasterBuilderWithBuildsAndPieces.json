@@ -1,0 +1,23 @@
+{
+    "userName": "TestUser",
+    "inventories": [],
+    "builds": [
+        {
+            "buildId": 2,
+            "requiredPieces": [
+                {
+                    "partType": "Brick",
+                    "color": "Blue",
+                    "dimensions": "2x4",
+                    "quantity": 10
+                },
+                {
+                    "partType": "Plate",
+                    "color": "Green",
+                    "dimensions": "1x2",
+                    "quantity": 5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "userName": "TestUser",
+    "inventories": [],
+    "builds": [
+        {
+            "buildId": 1,
+            "requiredPieces": []
+        }
+    ]
+}

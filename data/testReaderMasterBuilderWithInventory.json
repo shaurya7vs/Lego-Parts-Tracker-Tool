@@ -1,0 +1,10 @@
+{
+    "userName": "TestUser",
+    "inventories": [
+        {
+            "collectionName": "TestInventory",
+            "pieces": []
+        }
+    ],
+    "builds": []
+}

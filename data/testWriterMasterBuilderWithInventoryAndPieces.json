@@ -1,0 +1,13 @@
+{
+    "inventories": [{
+        "pieces": [{
+            "quantity": 5,
+            "color": "Red",
+            "partType": "Brick",
+            "dimensions": "2x4"
+        }],
+        "collectionName": "TestInventory"
+    }],
+    "builds": [],
+    "userName": "TestUser"
+}

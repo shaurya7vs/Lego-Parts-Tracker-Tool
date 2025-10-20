@@ -1,0 +1,83 @@
+{
+    "inventories": [
+        {
+            "pieces": [
+                {
+                    "quantity": 103,
+                    "color": "Red",
+                    "partType": "Brick",
+                    "dimensions": "2x4"
+                },
+                {
+                    "quantity": 32,
+                    "color": "Green",
+                    "partType": "Brick",
+                    "dimensions": "2x8"
+                },
+                {
+                    "quantity": 50,
+                    "color": "Black",
+                    "partType": "Slope",
+                    "dimensions": "1x2"
+                }
+            ],
+            "collectionName": "Shaurya's Inventory"
+        },
+        {
+            "pieces": [
+                {
+                    "quantity": 1413,
+                    "color": "Green",
+                    "partType": "Plate",
+                    "dimensions": "2x6"
+                },
+                {
+                    "quantity": 51,
+                    "color": "Green",
+                    "partType": "plate",
+                    "dimensions": "2x4"
+                }
+            ],
+            "collectionName": "Pete's Inventory"
+        }
+    ],
+    "builds": [
+        {
+            "buildId": 1011,
+            "requiredPieces": [{
+                "quantity": 12,
+                "color": "Red",
+                "partType": "Brick",
+                "dimensions": "2x4"
+            }]
+        },
+        {
+            "buildId": 101,
+            "requiredPieces": [{
+                "quantity": 5,
+                "color": "Red",
+                "partType": "Brick",
+                "dimensions": "2x4"
+            }]
+        },
+        {
+            "buildId": 1058,
+            "requiredPieces": [{
+                "quantity": 200,
+                "color": "2x4",
+                "partType": "Brick",
+                "dimensions": "2x4"
+            }]
+        },
+        {
+            "buildId": 1234,
+            "requiredPieces": [{
+                "quantity": 5,
+                "color": "red",
+                "partType": "Brick",
+                "dimensions": "2x4"
+            }]
+        }
+    ],
+    "userName": "Shaurya"
+}
